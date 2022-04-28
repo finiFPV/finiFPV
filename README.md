@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @fininimini
+- 👀 I’m interested in Drones
+- 🌱 I’m currently learning Python
