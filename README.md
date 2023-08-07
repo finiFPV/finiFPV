@@ -1,5 +1,5 @@
 # 💫 About Me:
-🥷 You might know me as *The Friendly Monarch*<br>🔭 I’m currently working on my website https://fini8.eu<br>🌐 I run my own Linux server at home<br>👨🏻‍💻 I have some experience with Kali Linux<br>🌱 I’m currently learning Typescript and Angular<br>💬 Ask me about my home server<br>⚡ Fun fact, i know how to code in Brainf**k language<br>🧪 Check out my 60W 2H<sub>2</sub> + O<sub>2</sub> generator<br>📨 Contact me at fini@fini8.eu
+🥷 You might know me as *The Friendly Monarch*<br>🔭 I’m currently working on a secret project<br>🧭Check out my website: [fini8.eu](https://fini8.eu)<br>🌐 I run my own Linux server at home<br>👨🏻‍💻 I have some experience with Kali Linux<br>🌱 I’m currently learning Typescript and Angular<br>💬 Ask me about my home server<br>⚡ Fun fact, i know how to code in Brainf**k language<br>🧪 Check out my 60W 2H<sub>2</sub> + O<sub>2</sub> generator<br>📨 Contact me at fini@fini8.eu
 
 
 ## 🌐 Socials:
