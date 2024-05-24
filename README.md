@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a secret project<br>🌐 I run my own Linux server at home<br>👨🏻‍💻 I have some experience with Kali Linux<br>🌱 I’m currently learning Typescript and Angular<br>💬 Ask me about my home server<br>⚡ Fun fact, i know how to code in Brainf**k language<br>🧪 Check out my 60W 2H<sub>2</sub> + O<sub>2</sub> generator
+🔭 I’m currently working on a secret project<br>🌐 I run my own Linux server at home<br>👨🏻‍💻 I have some experience with Kali Linux<br>🌱 I’m currently learning AI for stock trading<br>💬 Ask me about my home server<br>⚡ Fun fact, i know how to code in Brainf**k language<br>🧪 Check out my 60W 2H<sub>2</sub> + O<sub>2</sub> generator
 
 
 ## 🌐 Socials:
